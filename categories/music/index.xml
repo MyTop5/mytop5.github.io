@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on My Top 5</title>
+    <link>https://mytop5.github.io/categories/music/</link>
+    <description>Recent content in music on My Top 5</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Aug 2020 10:47:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://mytop5.github.io/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Top 5 Pink Floyd Songs</title>
+      <link>https://mytop5.github.io/posts/2020-08-27/</link>
+      <pubDate>Thu, 27 Aug 2020 10:47:05 -0400</pubDate>
+      
+      <guid>https://mytop5.github.io/posts/2020-08-27/</guid>
+      <description>&lt;p&gt;I first became aware of the English rock band &lt;a href=&#34;https://www.last.fm/music/Pink+Floyd&#34;&gt;Pink Floyd&lt;/a&gt; when I was around 12 years of age. I clearly remember playing my dad&amp;rsquo;s &lt;a href=&#34;https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon&#34;&gt;The Dark Side of the Moon&lt;/a&gt; vinyl and being completely blown away by their lyrics and sound.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
