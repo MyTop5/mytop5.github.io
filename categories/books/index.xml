@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Top 5</title>
-    <link>https://mytop5.github.io/</link>
-    <description>Recent content on My Top 5</description>
+    <title>books on My Top 5</title>
+    <link>https://mytop5.github.io/categories/books/</link>
+    <description>Recent content in books on My Top 5</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Sep 2020 10:53:10 -0400</lastBuildDate>
     
-	<atom:link href="https://mytop5.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mytop5.github.io/categories/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://mytop5.github.io/posts/2020-09-03/</guid>
       <description>&lt;p&gt;I became a book reader when I was in 3rd grade, and our teacher started a &amp;ldquo;book club&amp;rdquo; to get everyone excited about books and reading in general. I don&amp;rsquo;t quite remember the details, but I believe that she talked to all of the parents and passed the hat around to buy the first books for our class.
 The first book I was assigned to read was &lt;a href=&#34;https://www.goodreads.com/book/show/295.Treasure_Island&#34;&gt;Treasure Island&lt;/a&gt; by &lt;a href=&#34;https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson&#34;&gt;Robert L. Stevenson&lt;/a&gt;, which was a perfect match for an 8-year-old boy with a wild imagination and thirst for adventures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Top 5 Pink Floyd Songs</title>
-      <link>https://mytop5.github.io/posts/2020-08-27/</link>
-      <pubDate>Thu, 27 Aug 2020 10:47:05 -0400</pubDate>
-      
-      <guid>https://mytop5.github.io/posts/2020-08-27/</guid>
-      <description>&lt;p&gt;I first became aware of the English rock band &lt;a href=&#34;https://www.last.fm/music/Pink+Floyd&#34;&gt;Pink Floyd&lt;/a&gt; when I was around 12 years of age. I clearly remember playing my dad&amp;rsquo;s &lt;a href=&#34;https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon&#34;&gt;The Dark Side of the Moon&lt;/a&gt; vinyl and being completely blown away by their lyrics and sound.&lt;/p&gt;</description>
     </item>
     
   </channel>
